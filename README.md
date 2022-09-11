@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Screenshot
 
-![https://github.com/Ablueremote/order-summary-component-main/blob/master/summary-component-desktop.png](order-summary-component-main\summary-component-desktop.png)
-![order-summary-component-main\summary-component-mobile.jpeg] Mobile
+![summary-component-desktop](https://user-images.githubusercontent.com/95522156/189535481-14f78875-bfde-4f88-967c-c43c20dafcc1.png)
+![summary-component-mobile](https://user-images.githubusercontent.com/95522156/189535483-3a76caa8-d569-4782-8e25-d6d5eb75506e.jpeg)
 
 ### Links
 
