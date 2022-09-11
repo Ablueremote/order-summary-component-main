@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop](order-summary-component-main\summary-component-desktop.png)
+![https://github.com/Ablueremote/order-summary-component-main/blob/master/summary-component-desktop.png](Desktop)
 ![order-summary-component-main\summary-component-mobile.jpeg] Mobile
 
 ### Links
