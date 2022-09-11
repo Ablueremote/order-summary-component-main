@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Screenshot
 
-![order-summary-component-main/summary-component-desktop.png](Desktop)
-![order-summary-component-main/summary-component-mobile.jpeg](Mobile)
+![order-summary-component-main\summary-component-desktop.png](Desktop)
+![order-summary-component-main\summary-component-mobile.jpeg](Mobile)
 
 ### Links
 
