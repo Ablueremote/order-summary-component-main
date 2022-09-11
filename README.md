@@ -27,7 +27,7 @@ Users should be able to:
 ### Screenshot
 
 ![Desktop](order-summary-component-main\summary-component-desktop.png)
-![Mobile](order-summary-component-main\summary-component-mobile.jpeg)
+![C:\Users\dopey\OneDrive\Documents\FrontendMentor-Challenges\order-summary-component-main\summary-component-mobile.jpeg](Mobile)
 
 ### Links
 
@@ -71,6 +71,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@ablueremote](https://www.frontendmentor.io/profile/ablueremote)
 - Twitter - [@ablueremote](https://www.twitter.com/ablueremote)
