@@ -27,7 +27,7 @@ Users should be able to:
 ### Screenshot
 
 ![Desktop](order-summary-component-main\summary-component-desktop.png)
-![C:\Users\dopey\OneDrive\Documents\FrontendMentor-Challenges\order-summary-component-main\summary-component-mobile.jpeg](Mobile)
+![order-summary-component-main\summary-component-mobile.jpeg] Mobile
 
 ### Links
 
