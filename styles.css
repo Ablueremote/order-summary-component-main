@@ -7,52 +7,65 @@ body {
     min-height: 100vh;
     font-family: 'Red Hat Display', sans-serif;
     font-size: 14px;
+    background-image: url(images/pattern-background-desktop.svg);
+    background-repeat: repeat-x;
 }
 main {
 display: flex;
 flex-direction: column;
-max-width: 23vw;
+max-width: 350px;
 height: auto;
 text-align: center;
 background-color: white;
-border-radius: 15px;
+border-radius: 20px;
+align-items: center;
+box-shadow: rgb(128 149 241 / 40%) 0px 25px 20px -15px;
 }
-.header-img {
-    max-width: 23vw;
-    border-radius: 12px 12px 0 0;
+img {
+    max-width: 100%;
+    border-radius: 20px 20px 0 0;
 }
 button {
-    max-width: 25vw;
     font-family: 'Red Hat Display', sans-serif;
     border-style: none;
-    border-radius: 8px;
-    padding: 1em;
+    border-radius: 12px;
     font-weight: 700;
     margin: .1em 1.75em .5em ;
+    height: 40px;
+    width: 80%;
+    margin-top: 5%;
+    cursor: pointer;
 }
-p {color: hsl(224, 23%, 55%);}
-h1 {color: hsl(223, 47%, 23%);}
+p {color: hsl(224, 23%, 55%); font-size: 13px; padding: 0 10%;}
+h1 {
+    color: hsl(223, 47%, 23%);
+    margin-bottom: 0;
+    font-size: 25px;
+    font-weight: 800;
+}
 h2 {color: hsl(223, 47%, 23%);
 font-size: 1em;
 font-weight: 900;}
 .price-plan {
     background-color: hsl(225, 100%, 98%);
     border-radius: 8px;
-    max-width: 28vw;
-    margin: 1em;
+    width: 75%;
     display: flex;
     align-items: center;
-    justify-content: space-around;
+    padding: 0 5%;
     
 }
 .annual-price {
     border-radius: 8px;
+    padding-left: 5%;
+}
+.price-change {
+    padding-left: 25%;
 }
 .payment-button {
     background-color: hsl(223, 47%, 23%);
     color: white;
-    box-shadow: hsl(225, 100%, 98%) 5px 20px 20px 0px;
-    
+    box-shadow: hsl(225, 100%, 94%) 0 20px 20px -5px;
 }
 .cancel-button {
     color: hsl(224, 23%, 55%);
@@ -60,9 +73,9 @@ font-weight: 900;}
 }
 @media only screen and (max-width: 500px){
     main, .header-img {
-        min-width: 90vw;
+        width: 90%;
     }
     button, .price-plan {
-        min-width: 80vw;
+        width: 80%;
     }
 }
